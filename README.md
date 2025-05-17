@@ -1,13 +1,12 @@
 # Proyecto Python - Juego de Palíndromos
 
-Este es un pequeño juego en Python que verifica si una palabra o frase es un palíndromo.
+Esta es una calculadora la cual te da el sueldo neto ademas de el ISR y Finalmente, se muestra los resultados de los cálculos con los datos correspondientes.
 
 ## Requisitos
 - Python 3.x
-- Librería `unidecode`
 
 ## Instalación
 
 1. Clona el repositorio:
 ```bash
-git clone https://github.com/tu-usuario/python.git
+git clone https://github.com/BERNYBOX/Python.git
